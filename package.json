@@ -1,0 +1,11 @@
+{
+  "name": "quartiles-guesser",
+  "version": "1.0.0",
+  "description": "Generates a list of potentially valid words for use in the Apple News+ game, Quartiles.",
+  "main": "index.mjs",
+  "scripts": {
+		"start": "node index.mjs"
+  },
+  "author": "@arkmuntasser",
+  "license": "MIT"
+}
